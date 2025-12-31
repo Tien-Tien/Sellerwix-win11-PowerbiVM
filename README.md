@@ -1,14 +1,14 @@
 
 Author: Nguyen Tien 
 
-Company: Sellingwix
+Company: Sellerwix
 Date: 31/12/2025
 Version: 0.1
 
 win-vm-deployer
 Overview
 
-win-vm-deployer is a macOS-based automation software developed by Sellingwix that simplifies the creation and configuration of Windows virtual machines on Apple computers.
+win-vm-deployer is a macOS-based automation software developed by Sellerwix that simplifies the creation and configuration of Windows virtual machines on Apple computers.
 The software provisions a fully functional Windows environment and automatically installs and configures Microsoft Power BI Desktop, allowing users to start working immediately with minimal manual intervention.
 
 This solution is designed for professionals and organizations that require Windows-only tooling, such as Microsoft Power BI, while operating primarily in a macOS environment.
@@ -43,7 +43,7 @@ Windows 10 (optional / configurable)
 Architecture Overview
 macOS Host
 │
-├── win-vm-deployer (Sellingwix)
+├── win-vm-deployer (Sellerwix)
 │   ├── VM Provisioning Engine
 │   ├── Windows Installation Automation
 │   ├── Post-Installation Configuration
@@ -71,7 +71,7 @@ Active internet connection for Windows and Power BI installation
 
 Installing win-vm-deployer
 
-Download the win-vm-deployer installer from Sellingwix
+Download the win-vm-deployer installer from Sellerwix
 
 Install the application on macOS
 
@@ -168,13 +168,13 @@ Support
 
 For support, bug reports, or feature requests:
 
-Sellingwix Support Team
-📧 support@sellingwix.com
+Sellerwix Support Team
+📧 support@Sellerwix.com
 
-🌐 https://www.sellingwix.com
+🌐 https://www.sellerwix.com
 
 License
 
-© Sellingwix. All rights reserved.
+© Sellerwix. All rights reserved.
 win-vm-deployer is distributed under a commercial license.
 Unauthorized redistribution or modification is prohibited.
