@@ -1,5 +1,6 @@
 
-Author: Nguyen Tien
+Author: Nguyen Tien 
+
 Company: Sellingwix
 Date: 31/12/2025
 Version: 0.1
