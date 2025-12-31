@@ -1,9 +1,9 @@
 # ========================
-#     sellingwin Installer
+#     Sellerwix Installer
 # ========================
 
 Clear-Host "================================" -ForegroundColor Cyan
-Write-Host "        sellingwix Installer    " -ForegroundColor Cyan
+Write-Host "        Sellerwix Installer    " -ForegroundColor Cyan
 Write-Host "================================" -ForegroundColor Cyan
 Write-Host ""
 
@@ -86,7 +86,7 @@ while ($true) {
             Install-Software $selection
         }
         "2" {
-            Write-Host "Exiting sellingwix. Goodbye!" -ForegroundColor Yellow
+            Write-Host "Exiting Sellerwix. Goodbye!" -ForegroundColor Yellow
             break
         }
         default {
